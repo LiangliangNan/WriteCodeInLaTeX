@@ -19,5 +19,5 @@ If you write
 ```
 You will get
 <p align="left"> 
-     <img src="snapshot.png" width="800"> 
+     <img src="snapshot.png" width="600"> 
 </p>
