@@ -1,8 +1,8 @@
 # Write Code in LaTeX
 
 
-Example:
 
+If you write
 ```latex
 \begin{lstlisting}
 	#include <iostream>
@@ -18,3 +18,6 @@ Example:
 \end{lstlisting}
 ```
 You will get
+<p align="left"> 
+     <img src="snapshot.png" width="800"> 
+</p>
